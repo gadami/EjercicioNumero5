@@ -1,0 +1,5 @@
+Carlos,Sanchez,20-01-1980,45678.08,
+juan,Paz,10-03-1975,61540.50,
+Pedro,Diaz,12-11-1989,58600.10,
+Santiago,Segura,20-09-1974,65470.23,
+Maria,Segovia,5-12-1990,43695.65
